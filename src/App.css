@@ -16,16 +16,4 @@
     width: 110%;
   }
 }
-/* Ensure no horizontal overflow */
-body,
-html {
-  width: 100%;
-  overflow-x: hidden;
-
-}
-
-/* Prevent extra spacing on mobile */
-* {
-  box-sizing: border-box;
-}
 
