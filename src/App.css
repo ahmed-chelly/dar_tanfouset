@@ -29,3 +29,15 @@ html {
 * {
   box-sizing: border-box;
 }
+
+.container {
+  width: 100%;
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
