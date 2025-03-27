@@ -8,8 +8,9 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Explore the beauty of Chott el Djerid — from salt harvesting and
+            transportation to the raw, untouched desert landscape. A glimpse
+            into the process behind our organic sourced salt.
           </p>
         </div>
         <div className="row">
