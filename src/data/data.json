@@ -1,0 +1,188 @@
+{
+  "Header": {
+    "title": "Djerid Salt",
+    "paragraph": "Pure, Organic, and Harvested in North Africa"
+  },
+"About": {
+  "paragraph": "In the vast, sun-drenched plains of Chott el Djerid, we hand-harvest premium salt using traditional methods passed down for generations. Our salt is more than just a product — it is a reflection of Tunisia’s heritage, nature’s purity, and North African resilience. From the pink-hued waters of the desert lake to the mineral-rich salt mounds, each grain tells a story. We are committed to eco-friendly harvesting, fair trade, and sharing the unique richness of the Djerid region with the world.",
+  "Why": [
+    "Pure & Natural from the Djerid Desert",
+    "Hand-Collected Using Traditional Methods",
+    "Rich in Essential Minerals",
+    "Ethical & Sustainable Production"
+  ],
+  "Why2": [
+    "Export-Ready for Global Markets",
+    "Supports Local Artisans",
+    "Unique Flavor & Texture",
+    "Rooted in Tunisian Heritage"
+  ]
+}
+,
+"Gallery": [
+  {
+    "title": "Salt Transport Trucks",
+    "largeImage": "img/sel/resized-image-1.jpg",
+    "smallImage": "img/sel/resized-image-1.jpg"
+  },
+  {
+    "title": "Dumping Harvested Salt",
+    "largeImage": "img/sel/resized-image-2.jpg",
+    "smallImage": "img/sel/resized-image-2.jpg"
+  },
+  {
+    "title": "Salt Sample Collection",
+    "largeImage": "img/sel/resized-image-3.jpg",
+    "smallImage": "img/sel/resized-image-3.jpg"
+  },
+  {
+    "title": "Manual Salt Extraction",
+    "largeImage": "img/sel/resized-image-4.jpg",
+    "smallImage": "img/sel/resized-image-4.jpg"
+  },
+  {
+    "title": "Saltwater Canal",
+    "largeImage": "img/sel/resized-image-5.jpg",
+    "smallImage": "img/sel/resized-image-5.jpg"
+  },
+  {
+    "title": "Saltwater Basin",
+    "largeImage": "img/sel/resized-image-6.jpg",
+    "smallImage": "img/sel/resized-image-6.jpg"
+  },
+  {
+    "title": "Salt Mounds on Water Surface",
+    "largeImage": "img/sel/resized-image-7.jpg",
+    "smallImage": "img/sel/resized-image-7.jpg"
+  },
+  {
+    "title": "Fresh Salt in Hand",
+    "largeImage": "img/sel/resized-image-8.jpg",
+    "smallImage": "img/sel/resized-image-8.jpg"
+  },
+  {
+    "title": "Loading Salt onto Trucks",
+    "largeImage": "img/sel/resized-image-9.jpg",
+    "smallImage": "img/sel/resized-image-9.jpg"
+  }
+]
+
+,
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+"Features": [
+  {
+    "icon": "fa fa-leaf", 
+    "title": "100% Organic",
+    "text": "No additives, no processing—just pure desert salt."
+  },
+  {
+    "icon": "fa fa-cogs", 
+    "title": "Hand-Harvested",
+    "text": "Traditional methods passed down generations."
+  },
+  {
+    "icon": "fa fa-tint", 
+    "title": "Rich in Minerals",
+    "text": "Contains essential minerals from the Djerid salt flats."
+  },
+  {
+    "icon": "fa fa-recycle", 
+    "title": "Eco-Friendly Production",
+    "text": "Sustainable, small-batch sourcing respecting nature."
+  }
+]
+
+}
