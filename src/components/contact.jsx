@@ -46,7 +46,7 @@ export const Contact = () => {
             <b>Location:</b> Boumhal, near Azur City <br/>
             <b>Phone:</b>  +216 99 750 305<br/>
             <b>Instagram</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar_tanfouset</a><br/>
-            <b>Facebook</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar Tanfouset</a><br/>
+            <b>Facebook</b>: <a href="https://www.facebook.com/profile.php?id=61571081639574" target="_blank">Dar Tanfouset</a><br/>
           </p>
 
           <hr
