@@ -21,47 +21,33 @@
 ,
 "Gallery": [
   {
-    "title": "Salt Transport Trucks",
+    "title": "",
     "largeImage": "img/sel/resized-image-1.jpg",
     "smallImage": "img/sel/resized-image-1.jpg"
   },
   {
-    "title": "Dumping Harvested Salt",
+    "title": "",
     "largeImage": "img/sel/resized-image-2.jpg",
     "smallImage": "img/sel/resized-image-2.jpg"
   },
   {
-    "title": "Salt Sample Collection",
+    "title": "",
     "largeImage": "img/sel/resized-image-3.jpg",
     "smallImage": "img/sel/resized-image-3.jpg"
   },
   {
-    "title": "Manual Salt Extraction",
+    "title": "",
     "largeImage": "img/sel/resized-image-4.jpg",
     "smallImage": "img/sel/resized-image-4.jpg"
   },
   {
-    "title": "Saltwater Canal",
+    "title": "",
     "largeImage": "img/sel/resized-image-5.jpg",
     "smallImage": "img/sel/resized-image-5.jpg"
   },
+  
   {
-    "title": "Saltwater Basin",
-    "largeImage": "img/sel/resized-image-6.jpg",
-    "smallImage": "img/sel/resized-image-6.jpg"
-  },
-  {
-    "title": "Salt Mounds on Water Surface",
-    "largeImage": "img/sel/resized-image-7.jpg",
-    "smallImage": "img/sel/resized-image-7.jpg"
-  },
-  {
-    "title": "Fresh Salt in Hand",
-    "largeImage": "img/sel/resized-image-8.jpg",
-    "smallImage": "img/sel/resized-image-8.jpg"
-  },
-  {
-    "title": "Loading Salt onto Trucks",
+    "title": "",
     "largeImage": "img/sel/resized-image-9.jpg",
     "smallImage": "img/sel/resized-image-9.jpg"
   }
