@@ -43,10 +43,10 @@ export const Contact = () => {
           </h3>
           {/* <p style={{ margin: 0, fontWeight: "600", color: "#444" }}>CFO</p> */}
           <p style={{ marginBottom: "20px", color: "#555" }}>
-            <b>Location:</b> Boumhal, near Azur City
-            <b>Phone:</b>  +216 99 750 305
-            <b>Instagram</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar_tanfouset</a>
-            <b>Facebook</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar Tanfouset</a>
+            <b>Location:</b> Boumhal, near Azur City <br/>
+            <b>Phone:</b>  +216 99 750 305<br/>
+            <b>Instagram</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar_tanfouset</a><br/>
+            <b>Facebook</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar Tanfouset</a><br/>
           </p>
 
           <hr
