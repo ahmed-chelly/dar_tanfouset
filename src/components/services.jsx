@@ -41,19 +41,18 @@ export const Services = () => {
         <div className="row">
           <div className="col-md-8 col-md-offset-2">
             <p>
-              We supply high-quality natural salt sourced from the Djerid region in Southern Tunisia.
-              Our products are available in bulk and suitable for both domestic and international buyers.
+             <strong> Event Space Rental (Weddings, Receptions, Seminars, Parties) </strong> 
             </p>
             <p>
-              <strong>Rock Salt for Snow Removal</strong><br />
-              Perfect for melting snow and ice on roads, sidewalks, and parking areas. Effective, eco-conscious, and available in large quantities.
+              <strong> Outdoor Area Access for open-air gatherings</strong><br />
+              
             </p>
             <p>
-              <strong>Salt for Swimming Pools</strong><br />
-              Purified salt ideal for saltwater pool systems. Clean, mineral-rich, and gentle on skin and surfaces.
+              <strong>Decoration & Setup Support</strong><br />
+             
             </p>
             <p>
-              For more details, pricing, or to place an order, please contact us at <strong>+1 610 462 0005</strong>.
+              For details, pricing, or to book your date, please contact us at <strong>+216 99 750 305</strong>.
             </p>
           </div>
         </div>

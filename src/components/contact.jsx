@@ -14,8 +14,10 @@ export const Contact = () => {
         <div className="section-title">
           <h2 style={{ color: "#333" }}>Contact</h2>
           <p style={{ color: "#555" }}> 
-            Reach out to us for any inquiries or information. <br/>
-            <b>   This salt is imported to you by Hannibal export. </b>
+            
+            <b> Have questions or ready to book your event? We’re here to help! </b>
+            
+            
           </p>
         </div>
 
@@ -37,11 +39,14 @@ export const Contact = () => {
               color: "#222",
             }}
           >
-            Nino Nidhal Zouari
+            Dar Tanfouset
           </h3>
           {/* <p style={{ margin: 0, fontWeight: "600", color: "#444" }}>CFO</p> */}
           <p style={{ marginBottom: "20px", color: "#555" }}>
-            North America &amp; The Caribbean
+            <b>Location:</b> Boumhal, near Azur City
+            <b>Phone:</b>  +216 99 750 305
+            <b>Instagram</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar_tanfouset</a>
+            <b>Facebook</b>: <a href="https://www.instagram.com/Dar_tanfouset" target="_blank">Dar Tanfouset</a>
           </p>
 
           <hr
@@ -64,10 +69,10 @@ export const Contact = () => {
           <p style={{ color: "#333" }}>
             <i className="fa fa-phone" style={{ marginRight: "10px" }}></i>
             <a
-              href="tel:+16104620005"
+              href="tel:+216 99 750 305"
               style={{ color: "#007bff", textDecoration: "none" }}
             >
-              +1 610 462 0005
+              +216 99 750 305
             </a>
           </p>
         </div>
